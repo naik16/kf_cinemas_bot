@@ -244,9 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> @KFCINEMAS {file_caption} 
+    CAPTION = """<b> {file_caption} 
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ Join : @KFCINEMAS{file_name}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
