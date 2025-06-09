@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> {file_caption} 
+    CAPTION = """<b> Join - https://t.me/KFCINEMAS
 
 <b>⚙️ Join : @KFCINEMAS</b>""" 
 
