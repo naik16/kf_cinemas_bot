@@ -10,7 +10,8 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /KF-Kannada-BOT
-WORKDIR /KF-Kannada-BOT
-COPY . /KF-Kannada-BOT
+RUN mkdir /kf_cinemas_bot
+WORKDIR /kf_cinemas_bot
+COPY . /kf_cinemas_bot
 CMD ["python", "bot.py"]
+
