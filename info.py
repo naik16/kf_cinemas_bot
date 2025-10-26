@@ -127,8 +127,8 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'ba1103ff3500b60d006da49756ebafff3b8f6550')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/KF_Links/231') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+SHORTLINK_API = environ.get('SHORTLINK_API', 'fe59e9844a1631ea96eafec0124b071eb31bb400')
+TUTORIAL = environ.get('TUTORIAL', '') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 # Others
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
