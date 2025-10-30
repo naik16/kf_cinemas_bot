@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b> 📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚙️ Join : @KFCINEMAS</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -752,4 +752,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
