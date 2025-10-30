@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> Join - https://t.me/KFCINEMAS
+    CAPTION = """<b> 📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b>⚙️ Join : @KFCINEMAS</b>""" 
 
@@ -752,3 +752,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
